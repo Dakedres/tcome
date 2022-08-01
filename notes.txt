@@ -9,3 +9,14 @@ GTNH NEI:
 
 GTNH NettyPatcher:
   http://jenkins.usrv.eu:8080/job/Netty-Patcher/
+
+GTNH Bug Torch:
+  https://github.com/GTNewHorizons/BugTorch
+
+  - Crashes for whatever reason
+
+GTNH SpongeMixins:
+  https://github.com/GTNewHorizons/SpongeMixins
+
+GTNH Hodgepodge:
+  https://github.com/GTNewHorizons/Hodgepodge

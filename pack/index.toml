@@ -218,7 +218,7 @@ hash = "9d72cfa7c562edc6fdd0449df8381c8aeeab869d499e7cda8f6169e66b2eb712"
 
 [[files]]
 file = "journeymap/config/5.1/journeymap.core.config"
-hash = "b5c28c86fa57d84f364b8ea7dc2bcbfaaa0d82bb46587d36e3402a542a38aeca"
+hash = "b713e6bf32458a6278a76a6cd8ca72128c04108de4f4f8b49b09b25b435bf340"
 
 [[files]]
 file = "journeymap/config/5.1/journeymap.fullmap.config"
@@ -273,6 +273,10 @@ file = "mods/NotEnoughItems-1.7.10-2.2.19-GTNH.jar"
 hash = "cb8dd8adf5035a38d9d1a28d68b27858c7eb1849fb6288c381495c80d2fb1187"
 
 [[files]]
+file = "mods/SpongeMixins-1.5.0.jar"
+hash = "d6d302dd64a309217c10b42ef7d58961ce056f76987c45b896d4738578458f09"
+
+[[files]]
 file = "mods/TabbyChat-1.7.10-1.11.2.2-fml.jar"
 hash = "e5177cb0df64eccffb2a8c18a94f145e97010d54f8e8e88926692c72133350bf"
 
@@ -299,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/carpenters-blocks.pw.toml"
 hash = "a06f7789e0fd9aef2378f6000af1832e95407a0c854b30ba67d74d53a8146b8e"
-metafile = true
-
-[[files]]
-file = "mods/chat-ping.pw.toml"
-hash = "9849ce28f534b697944ad04a4c0e98cd23bb4ba85535564c58d761433f8178cc"
 metafile = true
 
 [[files]]
@@ -375,6 +374,10 @@ metafile = true
 file = "mods/healer.pw.toml"
 hash = "c76c9f8d7cea82541210982781f26c6c018472d0d88afe44b743f809a8562988"
 metafile = true
+
+[[files]]
+file = "mods/hodgepodge-1.7.10-1.7.4.jar"
+hash = "cc296eacb8f240d84d66e20dc6d7e5c6bc64cff7c3b0b3761d88ba96de737c41"
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
@@ -459,11 +462,6 @@ metafile = true
 [[files]]
 file = "mods/sound-filters.pw.toml"
 hash = "043e54254c2b3f43321f5de4c8baa0c2a3751d3e43b0b3069f55956c7dccc364"
-metafile = true
-
-[[files]]
-file = "mods/spongemixin1710.pw.toml"
-hash = "90cdcce64046e00e33ae5d598f657f59ea12aed80b9529d03a34474383589e62"
 metafile = true
 
 [[files]]

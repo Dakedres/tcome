@@ -1,12 +1,12 @@
 name = "The Cardboard of Middle Earth"
 author = "Dakedres"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f22f381972fc857cf9b1c8fb8a288913f754dffd5849032c3e54b70cb1ce16ed"
+hash = "991bf920f36e9faa8df005f0475488041a7b399564b2b1025e38e9d70713f33e"
 
 [versions]
 forge = "10.13.4.1614"
