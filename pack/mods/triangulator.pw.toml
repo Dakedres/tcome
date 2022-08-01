@@ -1,0 +1,13 @@
+name = "Triangulator"
+filename = "triangulator-mc1.7.10-1.7.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VTGi3upD/versions/1.7.3/triangulator-mc1.7.10-1.7.3.jar"
+hash-format = "sha1"
+hash = "2792926c0c51b2ec548ec77b3659be58edb3b9c0"
+
+[update]
+[update.modrinth]
+mod-id = "VTGi3upD"
+version = "z5fw8cgV"

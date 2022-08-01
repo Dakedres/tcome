@@ -1,0 +1,13 @@
+name = "CoFHTweaks"
+filename = "CoFHTweaks-[1.7.10]1.1.3B3-94.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f0d3a004b07612cb25126015538e934816ea315"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2320134
+project-id = 230020

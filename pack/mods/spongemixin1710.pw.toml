@@ -1,0 +1,13 @@
+name = "SpongeMixins 1.7.10"
+filename = "SpongeMixins-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lCPiV9SO/versions/1.2.0/SpongeMixins-1.2.0.jar"
+hash-format = "sha1"
+hash = "8794de155bbef99c08b479b16caf6e8fc2220990"
+
+[update]
+[update.modrinth]
+mod-id = "lCPiV9SO"
+version = "RMeCqZ7V"

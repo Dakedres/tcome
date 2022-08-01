@@ -1,0 +1,13 @@
+name = "AnimFix"
+filename = "animfix-mc1.7.10-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mlkAPOTc/versions/2.0.0/animfix-mc1.7.10-2.0.0.jar"
+hash-format = "sha1"
+hash = "0e9a2cf9026c2e5c1904281ac5d4b7e8ffe53eee"
+
+[update]
+[update.modrinth]
+mod-id = "mlkAPOTc"
+version = "8MWIWzFO"
