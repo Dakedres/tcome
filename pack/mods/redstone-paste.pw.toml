@@ -1,0 +1,13 @@
+name = "Redstone Paste"
+filename = "RedstonePasteMod-1.7.10-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cde673cf542031b933b317476b371c34e24c950"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2211249
+project-id = 67508

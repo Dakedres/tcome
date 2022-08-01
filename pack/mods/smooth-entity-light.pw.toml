@@ -1,0 +1,13 @@
+name = "Smooth Entity Light"
+filename = "SmoothEntityLight-3.0.4-MC1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aeedbc4fd8c4550cb7bca0f2a5e9cd9b6374cf2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2791600
+project-id = 341845

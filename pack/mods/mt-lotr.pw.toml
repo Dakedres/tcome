@@ -1,0 +1,13 @@
+name = "MT LOTR"
+filename = "mt-lotr-1.0.0-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be1e524ea8cb96b7ea5704e7bc184e1690448349"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2893274
+project-id = 365451

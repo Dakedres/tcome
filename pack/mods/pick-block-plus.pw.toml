@@ -1,0 +1,13 @@
+name = "Pick Block Plus"
+filename = "PickBlockPlus-1.7.10-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81a6e3917d612fc46b8c61c00cd00c7df8dcdd0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2295202
+project-id = 242943

@@ -1,0 +1,13 @@
+name = "NEI LOTR"
+filename = "neiLotr-2.0.0-ALPHA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "105a6fbf67830e0c07c1d8e0b02330a4ff3f35df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2761709
+project-id = 335281

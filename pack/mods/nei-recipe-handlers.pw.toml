@@ -1,0 +1,13 @@
+name = "NEI Recipe Handlers"
+filename = "neiRecipeHandlers-1.0.2-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c2663eb6b12db962ce6c31b1920dd52cd9d2be1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2841659
+project-id = 335035

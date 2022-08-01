@@ -1,0 +1,13 @@
+name = "(Chat) Ping!"
+filename = "ping-1.7.10-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27e6f434f7c246d3cb98d99da540ed2cea47606c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2357817
+project-id = 237804

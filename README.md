@@ -1,0 +1,2 @@
+# The Cardboard of Middle Earth
+A [LOTRMod](https://lotrminecraftmod.fandom.com/wiki/The_Lord_of_the_Rings_Minecraft_Mod_Wiki)-centered modpack which allows you to explore Witchery and Immersive Engineering in middle earth.
