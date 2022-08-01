@@ -129,6 +129,14 @@ file = "config/craftpresence.properties"
 hash = "f7d6519269c10055fdbd3824d9895376bda88a9dc07647b9be45867d677921ef"
 
 [[files]]
+file = "config/defaultworldgenerator.cfg"
+hash = "2ffa68881b34084b5baa2b1789ce4dce04efa8c205597bd97f5a82743bf5b211"
+
+[[files]]
+file = "config/falsepatternlib.cfg"
+hash = "1d8c961750a0a9993e0e7b5aa6b489c92787670439252a7a35b9649e538a461a"
+
+[[files]]
 file = "config/fastcraft.ini"
 hash = "d9c7a934a4b29b6dbf7d85c476ab6ae5965fd53a64ddbb47c0a93cac40713119"
 
@@ -253,16 +261,25 @@ file = "logo.png"
 hash = "776eed68b19ccdb79bacde6948edfa0d06563600338308a1b75525281b7fd86d"
 
 [[files]]
-file = "mods/LOTRMod v35.4.jar"
-hash = "19b634948f8aa1abdef4a7444eee4ffe2664ca99b7b192705ace106d0bc3aafd"
+file = "mods/CodeChickenCore-1.7.10-1.1.5.jar"
+hash = "91b21f9b098ed64a385acf961889c20bfa14124abf955471cb458757df7831aa"
 
 [[files]]
-file = "mods/NotEnoughItemsUnofficial-1.7.10-3.0.0-universal.jar"
-hash = "e2a5751aeaeb64af4abcc87bb611f235e5b58f70e1291fb7c9213391e98c4c4b"
+file = "mods/NettyPatch-1.7.10-0.3.1-1-g4d8e059.jar"
+hash = "8afaf112852f5fdd7a2013ab7abda5c45ec207d065dd9a518f04eac9c7b898bf"
+
+[[files]]
+file = "mods/NotEnoughItems-1.7.10-2.2.19-GTNH.jar"
+hash = "cb8dd8adf5035a38d9d1a28d68b27858c7eb1849fb6288c381495c80d2fb1187"
 
 [[files]]
 file = "mods/TabbyChat-1.7.10-1.11.2.2-fml.jar"
 hash = "e5177cb0df64eccffb2a8c18a94f145e97010d54f8e8e88926692c72133350bf"
+
+[[files]]
+file = "mods/animfix.pw.toml"
+hash = "3765c975af7544ad31645600c2df038032d79a52bd91046fd97195a7882f8960"
+metafile = true
 
 [[files]]
 file = "mods/better-builders-wands.pw.toml"
@@ -295,8 +312,8 @@ hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
 metafile = true
 
 [[files]]
-file = "mods/codechickencore.pw.toml"
-hash = "d7f57583d7ab3c8f212cb5973ecd98f79a32922b274a1b2ecd9485f2b7406d83"
+file = "mods/cofhtweaks.pw.toml"
+hash = "f12ec6b473686321ee591bf50599f224f84160e683575fe6fddc9587ac653e74"
 metafile = true
 
 [[files]]
@@ -306,17 +323,22 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "88480ef7e631021c1ba870bd16da0ffafc85c4dcc6c8bf5ca3ce09203d01b970"
+hash = "8bc2748fd0198006b462e861e80b039371c8af5a181fd8179abc3dda6da9e19f"
 metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "ab3d5068796275752dd0a8d452debef8d9a32dd10eb63f8bd5696934f701c8cf"
+hash = "e8b5ece89de55d5aab332a8a8dabc20cf0c4a17342bc318e699543b6a0777727"
 metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
+metafile = true
+
+[[files]]
+file = "mods/default-world-generator.pw.toml"
+hash = "d0759e8ba216e27bb6d31e6bd59bb7830fb320639f058432b82b1f0ace55badd"
 metafile = true
 
 [[files]]
@@ -330,6 +352,16 @@ hash = "529ad7219381a4fef9f3e07266edaa4d35d7c1fd2cf58ecd31626afc4a7db35b"
 metafile = true
 
 [[files]]
+file = "mods/flying-cullers.pw.toml"
+hash = "a3a834ee7c224c31213353aafd4d4b4a0d039a14b62e7cbbadf2bf4b52ae080c"
+metafile = true
+
+[[files]]
+file = "mods/fplib.pw.toml"
+hash = "99ee4bec96e8895281b620fd08ce2de273e2d133a0e2670c6d2a601965b97609"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-legacy-forge.pw.toml"
 hash = "c196c49693b8d4ab53a27d97902ac0afbe9d98787fc2e7ab8a8b9744d0eaeb9a"
 metafile = true
@@ -337,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-utilities-forge.pw.toml"
 hash = "a68938c0ce245b59f765de9534b5ef1e0882c2a0f58a4cf28ee791ea6a780174"
+metafile = true
+
+[[files]]
+file = "mods/healer.pw.toml"
+hash = "c76c9f8d7cea82541210982781f26c6c018472d0d88afe44b743f809a8562988"
 metafile = true
 
 [[files]]
@@ -376,12 +413,12 @@ metafile = true
 
 [[files]]
 file = "mods/nei-lotr.pw.toml"
-hash = "5b4daea4446310d9e60f0088ef4e3a1a0fb440218c417a6e62323b3af951b9c3"
+hash = "8997b2fd502e33e220d2cc224dac1e52c07cc33cf95fad720696686fc82f9284"
 metafile = true
 
 [[files]]
 file = "mods/nei-recipe-handlers.pw.toml"
-hash = "01c9042055857d0d326474a2800d1c0f3cb8d53a62bcf1484db6dc55c4a6d111"
+hash = "0b7426d12066058cfc60ee49ed22691c5aa1c345d0079a0012e20fd0b2edeaf8"
 metafile = true
 
 [[files]]
@@ -425,13 +462,28 @@ hash = "043e54254c2b3f43321f5de4c8baa0c2a3751d3e43b0b3069f55956c7dccc364"
 metafile = true
 
 [[files]]
+file = "mods/spongemixin1710.pw.toml"
+hash = "90cdcce64046e00e33ae5d598f657f59ea12aed80b9529d03a34474383589e62"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "74f55c146b49ee61c6d6f9bb035618d936c34c54caeabecbafac6db990822e79"
 metafile = true
 
 [[files]]
+file = "mods/the-lord-of-the-rings-mod-legacy.pw.toml"
+hash = "463c3e89318635560668775d7fcd449b582eeb85086d68a3ff6eb2369a78e52d"
+metafile = true
+
+[[files]]
 file = "mods/treecapitator.pw.toml"
 hash = "548becfe83371f2af2a3eb0918ac4f8a19e82a3f16c316ed11382b6caa807440"
+metafile = true
+
+[[files]]
+file = "mods/triangulator.pw.toml"
+hash = "f26308f64466baf0d9a40a4176acdf796a00b58f2e25f98cdabc4fe37098d57d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,11 @@
+Codechicken repo:
+  https://nexus.covers1624.net/service/rest/repository/browse/maven-hosted/codechicken/CodeChickenCore/1.7.10-1.0.7.48/
+
+GTNH CCC:
+  https://github.com/GTNewHorizons/CodeChickenCore
+
+GTNH NEI:
+  https://github.com/GTNewHorizons/NotEnoughItems
+
+GTNH NettyPatcher:
+  http://jenkins.usrv.eu:8080/job/Netty-Patcher/
